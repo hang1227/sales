@@ -22,3 +22,7 @@ Query is performed afterward to generate the key metrics mentioned in the backgr
 <img width="1127" height="118" alt="image" src="https://github.com/user-attachments/assets/4b323171-59d3-4391-b979-ef97cf32ab14" />
 <img width="796" height="112" alt="image" src="https://github.com/user-attachments/assets/44e02d15-4549-43bb-916b-f9b418b3c00e" />
 
+Each key metric is compiled and convert to CSV for data visualization in tableau.
+
+Executive summary:
+
