@@ -12,3 +12,8 @@ Data structure and initial checks
 Chocolate's sales data structure contain one table and its features include salesperson, country, product, date, sales amount, and shipping amount with a total row 1095 records. 
 
 <img width="185" height="143" alt="image" src="https://github.com/user-attachments/assets/abe1c6e9-ac96-4410-989c-25fdbbc924ef" />
+
+Prior to analysis, a variety of checks were conducted for quality control and familiarization with the dataset. Python is utilized to perform dataset cleaning and formalizing. The step is shown as below:
+
+<img width="756" height="191" alt="image" src="https://github.com/user-attachments/assets/5235abe9-6765-435f-9053-422e24a102d0" />
+
