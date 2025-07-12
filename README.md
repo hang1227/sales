@@ -9,3 +9,6 @@ Insights and recommendations are provided on the following key areas:
 - Sales trend analysis: an evaluation of sales and orders from each month across 2022
 
 Data structure and initial checks 
+Chocolate's sales data structure contain one table and its features include salesperson, country, product, date, sales amount, and shipping amount with a total row 1095 records. 
+
+<img width="185" height="143" alt="image" src="https://github.com/user-attachments/assets/abe1c6e9-ac96-4410-989c-25fdbbc924ef" />
