@@ -45,7 +45,7 @@ Product level performance:
 2.Products with lower performance include Caramel Stuffed Bars and 70% Dark Bites.
 3.Dark bite chocolate have large performance gap, which 50% sales performance is better than 70% dark bites, indicating the customers' perference are more towards mild favour chocolate. 
 
-Recommendation for unvovered insight:
+Recommendation for uncovered insight:
 1. Deep dive in the product level performance to extract top sell products in each month and each country.
 2. Evaluate underperform products to investigate customer feedback for Caramel Stuffed Bars and 70% Dark Bites. 
 
