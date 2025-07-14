@@ -25,4 +25,5 @@ Query is performed afterward to generate the key metrics mentioned in the backgr
 Each key metric is compiled and convert to CSV for data visualization in tableau.
 
 Executive summary:
+<img width="1649" height="774" alt="Dashboard 1" src="https://github.com/user-attachments/assets/b920d5a0-2c0b-4d9e-b822-b566c62ecc77" />
 
