@@ -41,8 +41,11 @@ Monthly Sales Trend
 3. Sales exhibit moderate seasonality. Q1 (Jan–Mar) performs strongly, while Q2 sees a slight dip followed by recovery. This suggests potential promotional or seasonal campaign opportunities in April.
 
 Product level performance:
+
 1.The top 3 products by total sales amount are, Smooth Silky Salty ($394,692), 50% Dark Bites ($341,712), White Choco ($329,14).
+
 2.Products with lower performance include Caramel Stuffed Bars and 70% Dark Bites.
+
 3.Dark bite chocolate have large performance gap, which 50% sales performance is better than 70% dark bites, indicating the customers' perference are more towards mild favour chocolate. 
 
 Recommendation for uncovered insight:
